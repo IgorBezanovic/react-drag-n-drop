@@ -1,1 +1,1 @@
-# react-drag-n-drop
+# react-file-upload-dropzone

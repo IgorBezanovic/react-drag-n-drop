@@ -1,0 +1,29 @@
+{
+  "name": "react-file-upload-dropzone",
+  "version": "1.0.0",
+  "description": "A package that enables you to seamlessly utilize and customize drag-and-drop input field.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorBezanovic/react-file-upload-dropzone.git"
+  },
+  "keywords": [
+    "drag-and-drop"
+  ],
+  "author": "Igor Bezanovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorBezanovic/react-file-upload-dropzone/issues"
+  },
+  "homepage": "https://github.com/IgorBezanovic/react-file-upload-dropzone#readme",
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3"
+  }
+}
